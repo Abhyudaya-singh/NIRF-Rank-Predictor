@@ -34,9 +34,9 @@ Refining and tuning the chosen model for optimal performance.
 # NIRF Ranking Parameters
 The NIRF methodology includes five key ranking parameters:
 
--Teaching, Learning, and Resources: Evaluates the quality of teaching, learning infrastructure, and resources available.
--Research and Professional Practice: Assesses research output, quality, and professional practices.
--Graduation Outcomes: Measures the outcomes related to graduation, such as employability and further studies.
--Outreach and Inclusivity: Examines efforts to reach diverse populations and promote inclusivity.
--Peer Perception: Considers the perception of the institution among peers and academic community.
+* Teaching, Learning, and Resources: Evaluates the quality of teaching, learning infrastructure, and resources available.
+* Research and Professional Practice: Assesses research output, quality, and professional practices.
+* Graduation Outcomes: Measures the outcomes related to graduation, such as employability and further studies.
+* Outreach and Inclusivity: Examines efforts to reach diverse populations and promote inclusivity.
+* Peer Perception: Considers the perception of the institution among peers and academic community.
 
