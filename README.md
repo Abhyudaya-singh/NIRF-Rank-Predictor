@@ -24,7 +24,6 @@ Comparing model performance using appropriate metrics.
 Training selected machine learning models on historical ranking data.
 Testing model accuracy and generalizability on unseen data.
 * **Model Selection:**
-
 Finalizing the best-performing model based on evaluation results.
 Refining and tuning the chosen model for optimal performance.
 # NIRF Ranking Parameters
