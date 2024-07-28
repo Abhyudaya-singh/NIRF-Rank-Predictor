@@ -12,11 +12,9 @@ The project is executed through the following key steps:
 Handling missing values, outliers, and inconsistencies in the dataset.
 Normalizing and standardizing data to prepare it for analysis.
 * **Feature Engineering:**
-
 Transforming raw data into meaningful features suitable for predictive modeling.
 Selecting and creating features that influence NIRF rankings.
 * **Exploratory Data Analysis (EDA):**
-
 Analyzing data distributions and relationships to gain insights.
 Visualizing patterns and trends relevant to the ranking parameters.
 * **Model Assessment:**
